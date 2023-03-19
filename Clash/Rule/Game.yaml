@@ -1,6 +1,38 @@
 ## NAME: Game
-## Edit Date: 2023-03-01
+## Edit Date: 2023-03-19
 payload:
+## > NEW Battle.net
+#客户端安装
+  - DOMAIN,cn.patch.battlenet.com.cn
+#验证码
+  - DOMAIN,client-api.arkoselabs.com
+  - DOMAIN,cdn.arkoselabs.com
+  - DOMAIN,prod-ireland.arkoselabs.com
+#下载DNS
+# > CloudN
+#  - DOMAIN,blizzard.gcdn.cloudn.co.kr
+#  - DOMAIN,blizzard.gcdn.cloudn.co.kr
+# > Akamai
+#  - DOMAIN,blzddist1-a.akamaihd.net
+#  - DOMAIN,blzddistkr1-a.akamaihd.net
+# > Level3
+#  - DOMAIN,level3.blizzard.com
+# > Blizzard
+#  - DOMAIN,kr.cdn.blizzard.com
+#  - DOMAIN,us.cdn.blizzard.com
+#  - DOMAIN,eu.cdn.blizzard.com
+#账户登录注册
+  - DOMAIN,eu.battle.net
+  - DOMAIN,us.battle.net
+  - DOMAIN,kr.battle.net
+  - DOMAIN,tw.battle.net
+  - DOMAIN,www.battle.net
+  - DOMAIN,account.battle.net
+#客户端内容
+  - DOMAIN,content-ui.battle.net
+#客户端图片
+  - DOMAIN,bnetcmsus-a.akamaihd.net
+  - DOMAIN,bnetproduct-a.akamaihd.net
 ## > Blizzard
   - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,battlenet.com
