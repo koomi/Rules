@@ -25,3 +25,12 @@ https://cdn.jsdelivr.net/gh/koomi/Rules@master/Clash/Rule/Google.yaml
 
 URL2
 https://ghproxy.com/https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/Google.yaml
+
+Node:
+
+neko-WARP URL1
+https://cdn.jsdelivr.net/gh/koomi/Rules@master/Clash/Rule/Google.yaml
+
+
+neko-WARP URL2
+https://ghproxy.com/https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/Google.yaml
