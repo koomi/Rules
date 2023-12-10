@@ -1,8 +1,8 @@
 # NAME: Unblock
 payload:
   # - DOMAIN-KEYWORD,bing
-  - DOMAIN,sydney.bing.com
-  - DOMAIN-SUFFIX,sydney.bing.com
+  # - DOMAIN,sydney.bing.com
+  # - DOMAIN-SUFFIX,sydney.bing.com
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,duangks.com
   - DOMAIN-SUFFIX,tradingview.com
