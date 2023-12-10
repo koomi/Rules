@@ -1,0 +1,18 @@
+# NAME: Unblock
+payload:
+  # - DOMAIN-KEYWORD,bing
+  # - DOMAIN,bing.com
+  - DOMAIN-SUFFIX,bulianglin.com
+  - DOMAIN-SUFFIX,duangks.com
+  - DOMAIN-SUFFIX,tradingview.com
+  - DOMAIN-SUFFIX,mac-torrent-download.net
+  - DOMAIN-SUFFIX,torrentmac.net
+  - DOMAIN,www.torrentmac.net
+  - DOMAIN-KEYWORD,torrentmac
+  - DOMAIN-SUFFIX,steamdb.info
+  - DOMAIN-SUFFIX,66img.cc
+  - DOMAIN-SUFFIX,23img.com
+  - DOMAIN-SUFFIX,11img.com
+  - DOMAIN-SUFFIX,me8gs.app
+  - DOMAIN-SUFFIX,bing.vcanbb.top
+  - DOMAIN-SUFFIX,vcanbb.top
