@@ -5,7 +5,11 @@ payload:
   # - DOMAIN-SUFFIX,sydney.bing.com
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,duangks.com
+  - DOMAIN-KEYWORD,tradingview
+  - DOMAIN,tradingview.com
   - DOMAIN-SUFFIX,tradingview.com
+  - DOMAIN,cn.tradingview.com
+  - DOMAIN-SUFFIX,cn.tradingview.com
   - DOMAIN-SUFFIX,mac-torrent-download.net
   - DOMAIN-SUFFIX,torrentmac.net
   - DOMAIN,www.torrentmac.net
