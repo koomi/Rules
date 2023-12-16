@@ -6,10 +6,12 @@ payload:
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,duangks.com
   - DOMAIN-KEYWORD,tradingview
-  # - DOMAIN,tradingview.com
-  # - DOMAIN-SUFFIX,tradingview.com
-  # - DOMAIN,cn.tradingview.com
-  # - DOMAIN-SUFFIX,cn.tradingview.com
+  - DOMAIN,tradingview.com
+  - DOMAIN-SUFFIX,tradingview.com
+  - DOMAIN,cn.tradingview.com
+  - DOMAIN-SUFFIX,cn.tradingview.com
+  - DOMAIN,www.tradingview.com
+  - DOMAIN-SUFFIX,www.tradingview.com
   - DOMAIN-SUFFIX,mac-torrent-download.net
   - DOMAIN,www.torrentmac.net
   - DOMAIN-SUFFIX,torrentmac.net
