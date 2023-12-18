@@ -1,10 +1,10 @@
 # NAME: AI
 payload:
 # Microsoft New Bing.com
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-KEYWORD,bing
-  - DOMAIN,bing.com
-  - DOMAIN,www.bing.com
+  # - DOMAIN-SUFFIX,bing.com
+  # - DOMAIN-KEYWORD,bing
+  # - DOMAIN,bing.com
+  # - DOMAIN,www.bing.com
 
 # ChatGPT
   - DOMAIN-SUFFIX,openai.com
@@ -12,3 +12,13 @@ payload:
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,identrust.com
   - DOMAIN-SUFFIX,auth0.com
+  
+# > Openai
+  # - DOMAIN-SUFFIX,openai.com
+# > ExHantai
+  - DOMAIN-SUFFIX,exhentai.org
+# > Claude 2
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+# > Google Bard
+  - DOMAIN-SUFFIX,bard.google.com

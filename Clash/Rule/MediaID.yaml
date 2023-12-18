@@ -1,0 +1,9 @@
+payload:
+# ---------- > Indian Media
+  - DOMAIN-SUFFIX,discoveryplus.in
+# > IN:MXPlayer
+  - DOMAIN-SUFFIX,mxplayer.in
+# > IN:Tata Play
+  - DOMAIN-SUFFIX,tataplay.com
+# > ID:Vidio
+  - DOMAIN-SUFFIX,geo-id-media-001-vidio-com.akamaized.net

@@ -1,0 +1,22 @@
+payload:
+# ---------- > South America Media
+# Star+
+  - DOMAIN-SUFFIX,starplus.com
+  - DOMAIN-SUFFIX,starott.com
+  - DOMAIN-SUFFIX,star.api.edge.bamgrid.com
+  - DOMAIN-SUFFIX,star.connections.edge.bamgrid.com
+  - DOMAIN-SUFFIX,star.content.edge.bamgrid.com
+  - DOMAIN-SUFFIX,star.playback.edge.bamgrid.com
+# > HBO 
+  - DOMAIN-SUFFIX,cinemax.com
+  - DOMAIN-SUFFIX,forthethrone.com
+  - DOMAIN-SUFFIX,hbo.com
+  - DOMAIN-SUFFIX,hbogo.com
+  - DOMAIN-SUFFIX,hbomax.com
+  - DOMAIN-SUFFIX,hbomaxcdn.com
+  - DOMAIN-SUFFIX,hbonow.com
+  - DOMAIN-SUFFIX,maxgo.com
+# > DirecTV
+  - DOMAIN-SUFFIX,directvgo.com
+# > Funimation !Against US/EU/AU!
+  - DOMAIN-SUFFIX,funimation.com

@@ -2,6 +2,48 @@
 
 ## URL
 
+Media:
+
+RawURL
+https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaGlobal.yaml
+https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaHK.yaml
+https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaTW.yaml
+https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaUS.yaml
+https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaSA.yaml
+https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaOC.yaml
+https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaEU.yaml
+https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaJP.yaml
+https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaKR.yaml
+https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaAS.yaml
+https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaID.yaml
+
+URL1
+https://cdn.jsdelivr.net/gh/koomi/Rules@master/Clash/Rule/MediaGlobal.yaml
+https://cdn.jsdelivr.net/gh/koomi/Rules@master/Clash/Rule/MediaHK.yaml
+https://cdn.jsdelivr.net/gh/koomi/Rules@master/Clash/Rule/MediaTW.yaml
+https://cdn.jsdelivr.net/gh/koomi/Rules@master/Clash/Rule/MediaUS.yaml
+https://cdn.jsdelivr.net/gh/koomi/Rules@master/Clash/Rule/MediaSA.yaml
+https://cdn.jsdelivr.net/gh/koomi/Rules@master/Clash/Rule/MediaOC.yaml
+https://cdn.jsdelivr.net/gh/koomi/Rules@master/Clash/Rule/MediaEU.yaml
+https://cdn.jsdelivr.net/gh/koomi/Rules@master/Clash/Rule/MediaJP.yaml
+https://cdn.jsdelivr.net/gh/koomi/Rules@master/Clash/Rule/MediaKR.yaml
+https://cdn.jsdelivr.net/gh/koomi/Rules@master/Clash/Rule/MediaAS.yaml
+https://cdn.jsdelivr.net/gh/koomi/Rules@master/Clash/Rule/MediaID.yaml
+
+URL2
+https://ghproxy.net/https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaGlobal.yaml
+https://ghproxy.net/https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaHK.yaml
+https://ghproxy.net/https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaTW.yaml
+https://ghproxy.net/https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaUS.yaml
+https://ghproxy.net/https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaSA.yaml
+https://ghproxy.net/https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaOC.yaml
+https://ghproxy.net/https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaEU.yaml
+https://ghproxy.net/https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaJP.yaml
+https://ghproxy.net/https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaKR.yaml
+https://ghproxy.net/https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaAS.yaml
+https://ghproxy.net/https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaID.yaml
+
+
 Unblock:
 
 RawURL
