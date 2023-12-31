@@ -24,3 +24,13 @@ DOMAIN,gateway.bingviz.microsoftapp.net,PROXY
 DOMAIN,in.appcenter.ms,PROXY
 DOMAIN,www.bing.com,PROXY
 DOMAIN,self.events.data.microsoft.com,PROXY
+
+# ExHantai
+DOMAIN-SUFFIX,exhentai.org
+
+# Claude 2
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+
+# Google Bard
+DOMAIN-SUFFIX,bard.google.com
