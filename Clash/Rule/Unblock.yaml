@@ -26,3 +26,6 @@ payload:
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,ipcheck.ing
   - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN-SUFFIX,superchat.live
+  - DOMAIN-SUFFIX,zh.superchat.live
+  
