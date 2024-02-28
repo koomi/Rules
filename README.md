@@ -43,6 +43,17 @@ https://ghproxy.net/https://raw.githubusercontent.com/koomi/Rules/master/Clash/R
 https://ghproxy.net/https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaAS.yaml
 https://ghproxy.net/https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/MediaID.yaml
 
+UnProxy
+
+RawURL
+https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/UnProxy.yaml
+
+URL1
+https://cdn.jsdelivr.net/gh/koomi/Rules@master/Clash/Rule/UnProxy.yaml
+
+URL2
+https://ghproxy.net/https://raw.githubusercontent.com/koomi/Rules/master/Clash/Rule/UnProxy.yaml
+
 
 Unblock:
 
