@@ -30,4 +30,5 @@ payload:
   - DOMAIN-SUFFIX,zh.superchat.live
   - DOMAIN-SUFFIX,ikanbot.com
   - DOMAIN,v.ikanbot.com
+  - DOMAIN,emby-cf.plusmedia.site
   
