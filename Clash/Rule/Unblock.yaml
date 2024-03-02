@@ -31,4 +31,8 @@ payload:
   - DOMAIN-SUFFIX,ikanbot.com
   - DOMAIN,v.ikanbot.com
   - DOMAIN,emby-cf.plusmedia.site
+  - DOMAIN,emby.xeton.dev
+  - DOMAIN,jellyfin.xeton.dev
+  - DOMAIN,movie.xeton.dev
+  - DOMAIN,servers.xeton.dev
   
