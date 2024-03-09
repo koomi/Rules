@@ -42,10 +42,15 @@ payload:
   
 # > Openai
   # - DOMAIN-SUFFIX,openai.com
+
 # > ExHantai
   - DOMAIN-SUFFIX,exhentai.org
+
 # > Claude 2
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
-# > Google Bard
+
+# > Google Bard/Gemini
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,gemini.google.com
