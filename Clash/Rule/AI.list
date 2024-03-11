@@ -25,12 +25,24 @@ DOMAIN,in.appcenter.ms,PROXY
 DOMAIN,www.bing.com,PROXY
 DOMAIN,self.events.data.microsoft.com,PROXY
 
+# ChatGPT
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,auth0.com
+
 # ExHantai
 DOMAIN-SUFFIX,exhentai.org
 
-# Claude 2
+# Claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 
-# Google Bard
+# Google Bard/Gemini
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
+
+# perplexity
+DOMAIN-SUFFIX,perplexity.ai
