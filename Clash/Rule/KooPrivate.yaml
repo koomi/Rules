@@ -1,9 +1,0 @@
-# NAME: UnProxy to KooPrivate
-payload:
-  # - DOMAIN-KEYWORD,bing
-  # - DOMAIN,sydney.bing.com
-  # - DOMAIN-SUFFIX,sydney.bing.com
-  - DOMAIN-KEYWORD,xiaoyang
-  - DOMAIN,xiaoyang.live
-  - DOMAIN-SUFFIX,oc.xiaoyang.live
-  - DOMAIN,xiaoyang.studio
