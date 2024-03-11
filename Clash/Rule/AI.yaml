@@ -54,3 +54,6 @@ payload:
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,gemini.google.com
+
+# > perplexity
+  - DOMAIN-SUFFIX,perplexity.ai
