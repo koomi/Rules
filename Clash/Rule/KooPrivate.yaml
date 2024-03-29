@@ -7,3 +7,4 @@ payload:
   - DOMAIN,xiaoyang.live
   - DOMAIN-SUFFIX,oc.xiaoyang.live
   - DOMAIN,xiaoyang.studio
+  - DOMAIN-SUFFIX,cloudflare.com
