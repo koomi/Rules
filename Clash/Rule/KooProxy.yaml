@@ -3,6 +3,7 @@ payload:
   # - DOMAIN-KEYWORD,bing
   # - DOMAIN,sydney.bing.com
   # - DOMAIN-SUFFIX,sydney.bing.com
+  - DOMAIN-SUFFIX,echonetwork.club
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,bulianglin.com
   - DOMAIN-SUFFIX,duangks.com
