@@ -9,3 +9,4 @@ payload:
   - DOMAIN,xiaoyang.studio
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,nopecha.com
+  - DOMAIN-SUFFIX,zhihu.com
