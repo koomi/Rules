@@ -37,4 +37,7 @@ payload:
   - DOMAIN,jellyfin.xeton.dev
   - DOMAIN,movie.xeton.dev
   - DOMAIN,servers.xeton.dev
+  - DOMAIN-SUFFIX,keleofficial.com
+  - DOMAIN-SUFFIX,kele123.net
+  
   
