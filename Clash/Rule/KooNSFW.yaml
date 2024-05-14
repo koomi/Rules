@@ -1,0 +1,13 @@
+# NAME: KooNSFW
+payload:
+  # - DOMAIN-KEYWORD,bing
+  # - DOMAIN,sydney.bing.com
+  # - DOMAIN-SUFFIX,sydney.bing.com
+  - DOMAIN-SUFFIX,missav.com
+  - DOMAIN-SUFFIX,surrit.com
+  - DOMAIN-SUFFIX,javbus.com
+  - DOMAIN-SUFFIX,dmmbus.art
+  - DOMAIN-SUFFIX,busdmm.art
+  - DOMAIN-SUFFIX,dmmbus.shop
+  - DOMAIN-SUFFIX,superchat.live
+  - DOMAIN-SUFFIX,zh.superchat.live
