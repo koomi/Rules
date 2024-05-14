@@ -28,8 +28,8 @@ payload:
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,ipcheck.ing
   - DOMAIN-SUFFIX,ipleak.net
-  - DOMAIN-SUFFIX,superchat.live
-  - DOMAIN-SUFFIX,zh.superchat.live
+#  - DOMAIN-SUFFIX,superchat.live
+#  - DOMAIN-SUFFIX,zh.superchat.live
   - DOMAIN-SUFFIX,ikanbot.com
   - DOMAIN,v.ikanbot.com
   - DOMAIN,emby-cf.plusmedia.site
