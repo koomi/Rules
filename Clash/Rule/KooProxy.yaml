@@ -39,5 +39,6 @@ payload:
   - DOMAIN,servers.xeton.dev
   - DOMAIN-SUFFIX,keleofficial.com
   - DOMAIN-SUFFIX,kele123.net
-  
+  - DOMAIN-KEYWORD,travelodge
+
   
