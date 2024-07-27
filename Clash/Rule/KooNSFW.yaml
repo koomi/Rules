@@ -4,8 +4,8 @@ payload:
   # - DOMAIN,sydney.bing.com
   # - DOMAIN-SUFFIX,sydney.bing.com
   # Video
-  # - DOMAIN-SUFFIX,misakaf.org
-  # - DOMAIN-SUFFIX,emby.misakaf.org
+  - DOMAIN-SUFFIX,misakaf.org
+  - DOMAIN-SUFFIX,emby.misakaf.org
   # NSFW
   - DOMAIN-SUFFIX,missav.com
   - DOMAIN-SUFFIX,recombee.com
