@@ -3,6 +3,8 @@ payload:
   # - DOMAIN-KEYWORD,bing
   # - DOMAIN,sydney.bing.com
   # - DOMAIN-SUFFIX,sydney.bing.com
+  - DOMAIN-SUFFIX,misakaf.org
+  - DOMAIN-SUFFIX,emby.misakaf.org
   - DOMAIN-SUFFIX,missav.com
   - DOMAIN-SUFFIX,recombee.com
   - DOMAIN-SUFFIX,surrit.com
