@@ -14,8 +14,8 @@ payload:
   - DOMAIN-SUFFIX,zhihu.com
   - DOMAIN-SUFFIX,ocbc.com
   # Video
-  - DOMAIN-SUFFIX,misakaf.org
-  - DOMAIN-SUFFIX,emby.misakaf.org
+  # - DOMAIN-SUFFIX,misakaf.org
+  # - DOMAIN-SUFFIX,emby.misakaf.org
   # IP
   - IP-CIDR,129.154.62.89/32
   - IP-CIDR,152.69.228.239/32
