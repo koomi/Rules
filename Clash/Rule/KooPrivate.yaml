@@ -13,6 +13,9 @@ payload:
   - DOMAIN-SUFFIX,nopecha.com
   - DOMAIN-SUFFIX,zhihu.com
   - DOMAIN-SUFFIX,ocbc.com
+  - DOMAIN-SUFFIX,misakaf.org
+  - DOMAIN-SUFFIX,emby.misakaf.org
+  # IP
   - IP-CIDR,129.154.62.89/32
   - IP-CIDR,152.69.228.239/32
   - IP-CIDR,142.171.225.231/32
