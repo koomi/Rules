@@ -3,6 +3,12 @@ payload:
   # - DOMAIN-KEYWORD,bing
   # - DOMAIN,sydney.bing.com
   # - DOMAIN-SUFFIX,sydney.bing.com
+  ## TVbox
+  - DOMAIN-SUFFIX,饭太硬.com
+  - DOMAIN-SUFFIX,肥猫.live
+  - DOMAIN-SUFFIX,肥猫.love
+  - DOMAIN-SUFFIX,小白.love
+  ## Other
   - DOMAIN-SUFFIX,echonetwork.club
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,bulianglin.com
