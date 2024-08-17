@@ -5,9 +5,13 @@ payload:
   # - DOMAIN-SUFFIX,sydney.bing.com
   ## TVbox
   - DOMAIN-SUFFIX,饭太硬.com
+  - DOMAIN-SUFFIX,xn--sss604efuw.com
   - DOMAIN-SUFFIX,肥猫.live
+  - DOMAIN-SUFFIX,xn--z7x900a.live
   - DOMAIN-SUFFIX,肥猫.love
+  - DOMAIN-SUFFIX,xn--z7x900a.love
   - DOMAIN-SUFFIX,小白.love
+  - DOMAIN-SUFFIX,xn--yety82d.love
   ## Other
   - DOMAIN-SUFFIX,echonetwork.club
   - DOMAIN-SUFFIX,t.co
