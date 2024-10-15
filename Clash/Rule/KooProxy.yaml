@@ -3,6 +3,8 @@ payload:
   # - DOMAIN-KEYWORD,bing
   # - DOMAIN,sydney.bing.com
   # - DOMAIN-SUFFIX,sydney.bing.com
+  ## VPS
+  - DOMAIN-SUFFIX,cloudcone.com
   ## TVbox
   - DOMAIN-SUFFIX,饭太硬.com
   - DOMAIN-SUFFIX,xn--sss604efuw.com
