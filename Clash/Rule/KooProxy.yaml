@@ -5,6 +5,7 @@ payload:
   # - DOMAIN-SUFFIX,sydney.bing.com
   ## VPS
   - DOMAIN-SUFFIX,cloudcone.com
+  - IP-CIDR,142.171.225.231/32
   ## TVbox
   - DOMAIN-SUFFIX,饭太硬.com
   - DOMAIN-SUFFIX,xn--sss604efuw.com
