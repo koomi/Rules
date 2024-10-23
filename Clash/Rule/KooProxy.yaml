@@ -15,11 +15,19 @@ payload:
   - DOMAIN-SUFFIX,xn--z7x900a.love
   - DOMAIN-SUFFIX,小白.love
   - DOMAIN-SUFFIX,xn--yety82d.love
-  ## Other
-  - DOMAIN-SUFFIX,echonetwork.club
-  - DOMAIN-SUFFIX,t.co
-  - DOMAIN-SUFFIX,bulianglin.com
-  - DOMAIN-SUFFIX,duangks.com
+  ## notion
+  - DOMAIN-SUFFIX,notion.site
+  - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-KEYWORD,notion
+  ## agoda
+  - DOMAIN-SUFFIX,agoda.cn
+  - DOMAIN-SUFFIX,agoda.com
+  - DOMAIN-KEYWORD,agoda
+  ## booking
+  - DOMAIN-SUFFIX,booking.cn
+  - DOMAIN-SUFFIX,booking.com
+  - DOMAIN-KEYWORD,booking
+  ## tradingview
   - DOMAIN-KEYWORD,tradingview
   - DOMAIN,tradingview.com
   - DOMAIN-SUFFIX,tradingview.com
@@ -27,6 +35,11 @@ payload:
   - DOMAIN-SUFFIX,cn.tradingview.com
   - DOMAIN,www.tradingview.com
   - DOMAIN-SUFFIX,www.tradingview.com
+  ## Other
+  - DOMAIN-SUFFIX,echonetwork.club
+  - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,bulianglin.com
+  - DOMAIN-SUFFIX,duangks.com
   - DOMAIN-SUFFIX,mac-torrent-download.net
   - DOMAIN,www.torrentmac.net
   - DOMAIN-SUFFIX,torrentmac.net
