@@ -4,11 +4,11 @@ payload:
   # - DOMAIN,sydney.bing.com
   # - DOMAIN-SUFFIX,sydney.bing.com
   ## synology
-	- DOMAIN-SUFFIX,checkip.synology.com
-	- DOMAIN-SUFFIX,checkipv6.synology.com
-	- DOMAIN-SUFFIX,checkport.synology.com
-	- DOMAIN-SUFFIX,ddns.synology.com
-	- DOMAIN-SUFFIX,account.synology.com
+  - DOMAIN-SUFFIX,checkip.synology.com
+  - DOMAIN-SUFFIX,checkipv6.synology.com
+  - DOMAIN-SUFFIX,checkport.synology.com
+  - DOMAIN-SUFFIX,ddns.synology.com
+  - DOMAIN-SUFFIX,account.synology.com
   - DOMAIN-KEYWORD,xiaoyang
   - DOMAIN,xiaoyang.live
   - DOMAIN-SUFFIX,oc.xiaoyang.live
