@@ -6,6 +6,9 @@ payload:
   ## VPS
   - DOMAIN-SUFFIX,cloudcone.com
   - IP-CIDR,142.171.225.231/32
+  ## Video
+  - DOMAIN-SUFFIX,misakaf.org
+  - DOMAIN-SUFFIX,emby.misakaf.org
   ## TVbox
   - DOMAIN-SUFFIX,饭太硬.com
   - DOMAIN-SUFFIX,xn--sss604efuw.com
@@ -54,8 +57,6 @@ payload:
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,ipcheck.ing
   - DOMAIN-SUFFIX,ipleak.net
-#  - DOMAIN-SUFFIX,superchat.live
-#  - DOMAIN-SUFFIX,zh.superchat.live
   - DOMAIN-SUFFIX,ikanbot.com
   - DOMAIN,v.ikanbot.com
   - DOMAIN,emby-cf.plusmedia.site
