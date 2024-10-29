@@ -58,3 +58,6 @@ payload:
 
 # > perplexity
   - DOMAIN-SUFFIX,perplexity.ai
+  
+# > perplexity
+  - DOMAIN-SUFFIX,cursor.com
