@@ -24,3 +24,6 @@ payload:
   - DOMAIN-SUFFIX,cdnbus.help
   - DOMAIN-SUFFIX,superchat.live
   - DOMAIN-SUFFIX,zh.superchat.live
+  # - DOMAIN-SUFFIX,66img.cc
+  # - DOMAIN-SUFFIX,23img.com
+  # - DOMAIN-SUFFIX,11img.com
