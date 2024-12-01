@@ -1,0 +1,9 @@
+# NAME: Cloudflare
+payload:
+  # - DOMAIN-KEYWORD,bing
+  # - DOMAIN,sydney.bing.com
+  # - DOMAIN-SUFFIX,sydney.bing.com
+  ## Cloudflare
+  - DOMAIN,cloudflare.com
+  - DOMAIN,dash.cloudflare.com
+  - DOMAIN,challenges.cloudflare.com
