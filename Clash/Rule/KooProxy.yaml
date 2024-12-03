@@ -4,8 +4,8 @@ payload:
   # - DOMAIN,sydney.bing.com
   # - DOMAIN-SUFFIX,sydney.bing.com
   ## Cloudflare
-  - DOMAIN,cloudflare.com
-  - DOMAIN,dash.cloudflare.com
+  # - DOMAIN,cloudflare.com
+  # - DOMAIN,dash.cloudflare.com
   ## VPS
   - DOMAIN-SUFFIX,cloudcone.com
   - IP-CIDR,142.171.225.231/32
