@@ -15,7 +15,7 @@ payload:
   - DOMAIN,xiaoyang.studio
   - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,apple.com
-  - DOMAIN-SUFFIX,cloudflare.com
+  # - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,nopecha.com
   - DOMAIN-SUFFIX,zhihu.com
   - DOMAIN-SUFFIX,ocbc.com
