@@ -1,7 +1,3 @@
-// NAME: KooNSFW
-// - DOMAIN-KEYWORD,bing
-// - DOMAIN,sydney.bing.com
-// - sydney.bing.com
 {
   "version": 1,
   "rules": [
@@ -26,10 +22,7 @@
         "buscdn.help",
         "cdnbus.help",
         "superchat.live",
-        "zh.superchat.live"//,
-        // "66img.cc",
-        // "23img.com",
-        // "11img.com"
+        "zh.superchat.live"
       ]
     }
   ]
