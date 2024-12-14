@@ -1,28 +1,35 @@
+// NAME: KooNSFW
+// - DOMAIN-KEYWORD,bing
+// - DOMAIN,sydney.bing.com
+// - sydney.bing.com
 {
   "version": 1,
   "rules": [
     {
       "domain_suffix": [
-        "DOMAIN-SUFFIX,missav.com",
-        "DOMAIN-SUFFIX,recombee.com",
-        "DOMAIN-SUFFIX,surrit.com",
-        "DOMAIN-SUFFIX,sixyik.com",
-        "DOMAIN-SUFFIX,javbus.com",
-        "DOMAIN-SUFFIX,javbus.help",
-        "DOMAIN-SUFFIX,javsee.help",
-        "DOMAIN-SUFFIX,seejav.help",
-        "DOMAIN-SUFFIX,javbus.help",
-        "DOMAIN-SUFFIX,dmmbus.help",
-        "DOMAIN-SUFFIX,dmmbus.art",
-        "DOMAIN-SUFFIX,dmmbus.shop",
-        "DOMAIN-SUFFIX,busdmm.art",
-        "DOMAIN-SUFFIX,busjav.help",
-        "DOMAIN-SUFFIX,busfan.help",
-        "DOMAIN-SUFFIX,fanbus.help",
-        "DOMAIN-SUFFIX,buscdn.help",
-        "DOMAIN-SUFFIX,cdnbus.help",
-        "DOMAIN-SUFFIX,superchat.live",
-        "DOMAIN-SUFFIX,zh.superchat.live"
+        "missav.com",
+        "recombee.com",
+        "surrit.com",
+        "sixyik.com",
+        "javbus.com",
+        "javbus.help",
+        "javsee.help",
+        "seejav.help",
+        "javbus.help",
+        "dmmbus.help",
+        "dmmbus.art",
+        "dmmbus.shop",
+        "busdmm.art",
+        "busjav.help",
+        "busfan.help",
+        "fanbus.help",
+        "buscdn.help",
+        "cdnbus.help",
+        "superchat.live",
+        "zh.superchat.live"//,
+        // "66img.cc",
+        // "23img.com",
+        // "11img.com"
       ]
     }
   ]
