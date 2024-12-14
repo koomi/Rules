@@ -1,1 +1,14 @@
-
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "cloudflare.com",
+        "dash.cloudflare.com",
+        "challenges.cloudflare.com",
+        "gates.cloudflare.com",
+        "sparrow.cloudflare.com"
+      ]
+    }
+  ]
+}
