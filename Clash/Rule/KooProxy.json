@@ -54,7 +54,7 @@
         "movie.xeton.dev",
         "servers.xeton.dev"
       ],
-      "domain-keyword": [
+      "domain_keyword": [
         "notion",
         "agoda",
         "booking",
@@ -62,7 +62,7 @@
         "torrentmac",
         "travelodge"
       ],
-      "ip-cidr": [
+      "ip_cidr": [
         "142.171.225.231/32"
       ]
     }
