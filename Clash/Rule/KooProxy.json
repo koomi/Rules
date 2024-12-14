@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "cloudcone.com",
+        "misakaf.org",
+        "emby.misakaf.org",
+        "饭太硬.com",
+        "xn--sss604efuw.com",
+        "肥猫.live",
+        "xn--z7x900a.live",
+        "肥猫.love",
+        "xn--z7x900a.love",
+        "小白.love",
+        "xn--yety82d.love",
+        "notion.site",
+        "notion.so",
+        "agoda.cn",
+        "agoda.com",
+        "booking.cn",
+        "booking.com",
+        "tradingview.com",
+        "www.tradingview.com",
+        "echonetwork.club",
+        "t.co",
+        "bulianglin.com",
+        "duangks.com",
+        "mac-torrent-download.net",
+        "cn.tradingview.com",
+        "torrentmac.net",
+        "steamdb.info",
+        "me8gs.app",
+        "bing.vcanbb.top",
+        "vcanbb.top",
+        "browserleaks.com",
+        "ipcheck.ing",
+        "ipleak.net",
+        "ikanbot.com",
+        "keleofficial.com",
+        "kele123.net",
+        "travelodgehotels.asia",
+        "maverickcrm.com"
+      ],
+      "domain": [
+        "tradingview.com",
+        "cn.tradingview.com",
+        "www.tradingview.com",
+        "www.torrentmac.net",
+        "v.ikanbot.com",
+        "emby-cf.plusmedia.site",
+        "emby.xeton.dev",
+        "jellyfin.xeton.dev",
+        "movie.xeton.dev",
+        "servers.xeton.dev"
+      ],
+      "domain-keyword": [
+        "notion",
+        "agoda",
+        "booking",
+        "tradingview",
+        "torrentmac",
+        "travelodge"
+      ],
+      "ip-cidr": [
+        "142.171.225.231/32"
+      ]
+    }
+  ]
+}
