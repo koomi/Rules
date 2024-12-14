@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "checkip.synology.com",
+        "checkipv6.synology.com",
+        "checkport.synology.com",
+        "ddns.synology.com",
+        "account.synology.com",
+        "oc.xiaoyang.live",
+        "icloud.com",
+        "apple.com",
+        "nopecha.com",
+        "zhihu.com",
+        "ocbc.com"
+      ],
+      "domain": [
+        "xiaoyang.live",
+        "xiaoyang.studio"
+      ],
+      "domain-keyword": [
+        "xiaoyang"
+      ],
+      "ip-cidr": [
+        "129.154.62.89/32",
+        "152.69.228.239/32",
+        "110.42.232.107/32"
+      ]
+    }
+  ]
+}
