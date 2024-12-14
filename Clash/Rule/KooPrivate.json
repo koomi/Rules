@@ -19,10 +19,10 @@
         "xiaoyang.live",
         "xiaoyang.studio"
       ],
-      "domain-keyword": [
+      "domain_keyword": [
         "xiaoyang"
       ],
-      "ip-cidr": [
+      "ip_cidr": [
         "129.154.62.89/32",
         "152.69.228.239/32",
         "110.42.232.107/32"
