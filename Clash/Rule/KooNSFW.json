@@ -1,33 +1,35 @@
+// NAME: KooNSFW
+// - DOMAIN-KEYWORD,bing
+// - DOMAIN,sydney.bing.com
+// - DOMAIN-SUFFIX,sydney.bing.com
 {
   "version": 1,
   "rules": [
     {
       "domain_suffix": [
-        "max.com",
-        "hbo.com",
-        "hbogoasia.ph",
-        "forthethrone.com",
-        "hbogoasia.sg",
-        "hboasia.com",
-        "maxgo.com",
-        "hbogoasia.tw",
-        "hbogo.eu",
-        "hbogoasia.com",
-        "hbogoasia.hk",
-        "hbogoasia.id",
-        "discomax.com",
-        "cinemax.com",
-        "hbogo.com",
-        "hbomax.com",
-        "hbomaxcdn.com",
-        "hbonow.com",
-        "brightline.tv",
-        "hbogo.co.th",
-        "hbomax-images.warnermediacdn.com",
-        "hbo.com.edgesuite.net",
-        "hbo.map.fastly.net",
-        "hbomaxdash.s.llnwi.net",
-        "hbo.com.c.footprint.net"
+        "DOMAIN-SUFFIX,missav.com",
+        "DOMAIN-SUFFIX,recombee.com",
+        "DOMAIN-SUFFIX,surrit.com",
+        "DOMAIN-SUFFIX,sixyik.com",
+        "DOMAIN-SUFFIX,javbus.com",
+        "DOMAIN-SUFFIX,javbus.help",
+        "DOMAIN-SUFFIX,javsee.help",
+        "DOMAIN-SUFFIX,seejav.help",
+        "DOMAIN-SUFFIX,javbus.help",
+        "DOMAIN-SUFFIX,dmmbus.help",
+        "DOMAIN-SUFFIX,dmmbus.art",
+        "DOMAIN-SUFFIX,dmmbus.shop",
+        "DOMAIN-SUFFIX,busdmm.art",
+        "DOMAIN-SUFFIX,busjav.help",
+        "DOMAIN-SUFFIX,busfan.help",
+        "DOMAIN-SUFFIX,fanbus.help",
+        "DOMAIN-SUFFIX,buscdn.help",
+        "DOMAIN-SUFFIX,cdnbus.help",
+        "DOMAIN-SUFFIX,superchat.live",
+        "DOMAIN-SUFFIX,zh.superchat.live"//,
+        // "DOMAIN-SUFFIX,66img.cc",
+        // "DOMAIN-SUFFIX,23img.com",
+        // "DOMAIN-SUFFIX,11img.com"
       ]
     }
   ]
