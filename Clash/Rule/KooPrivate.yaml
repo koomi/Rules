@@ -14,15 +14,16 @@ payload:
   - DOMAIN-SUFFIX,oc.xiaoyang.live
   - DOMAIN,xiaoyang.studio
   ## Apple
-  - DOMAIN-SUFFIX,icloud.com
-  - DOMAIN-SUFFIX,apple.com
-  - DOMAIN-SUFFIX,apple.com.akadns.net
+  # - DOMAIN-SUFFIX,icloud.com
+  # - DOMAIN-SUFFIX,apple.com
+  # - DOMAIN-SUFFIX,apple.com.akadns.net
+  ## Others
   # - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,nopecha.com
   - DOMAIN-SUFFIX,zhihu.com
   - DOMAIN-SUFFIX,ocbc.com
   - DOMAIN-SUFFIX,linux.do
-  # Video
+  ## Video
   # - DOMAIN-SUFFIX,misakaf.org
   # - DOMAIN-SUFFIX,emby.misakaf.org
   # IP
