@@ -3,6 +3,8 @@ payload:
   # - DOMAIN-KEYWORD,bing
   # - DOMAIN,sydney.bing.com
   # - DOMAIN-SUFFIX,sydney.bing.com
+  ## socialblade
+  - DOMAIN-SUFFIX,socialblade.com
   ## synology
   - DOMAIN-SUFFIX,checkip.synology.com
   - DOMAIN-SUFFIX,checkipv6.synology.com
