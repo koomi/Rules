@@ -41,6 +41,8 @@ payload:
   - DOMAIN-SUFFIX,cn.tradingview.com
   - DOMAIN,www.tradingview.com
   - DOMAIN-SUFFIX,www.tradingview.com
+  ## facebook
+  - DOMAIN-SUFFIX,fbcdn.net
   ## Other
   - DOMAIN-SUFFIX,echonetwork.club
   - DOMAIN-SUFFIX,t.co
