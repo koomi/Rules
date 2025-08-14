@@ -27,8 +27,9 @@ payload:
   - DOMAIN-SUFFIX,icloud.com.cn
   - DOMAIN-SUFFIX,icloud.net.cn
   - DOMAIN-SUFFIX,icloudapple.cn
+  ## tailscale
+  - DOMAIN-KEYWORD,tailscale
   ## Others
-  # - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,nopecha.com
   - DOMAIN-SUFFIX,zhihu.com
   - DOMAIN-SUFFIX,ocbc.com
@@ -39,5 +40,5 @@ payload:
   # IP
   - IP-CIDR,129.154.62.89/32
   - IP-CIDR,152.69.228.239/32
-  # - IP-CIDR,142.171.225.231/32
+  - IP-CIDR,142.171.225.231/32
   - IP-CIDR,110.42.232.107/32
