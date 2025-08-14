@@ -7,20 +7,20 @@ payload:
   # - DOMAIN,cloudflare.com
   # - DOMAIN,dash.cloudflare.com
   ## VPS
-  - DOMAIN-SUFFIX,cloudcone.com
-  - IP-CIDR,142.171.225.231/32
+  # - DOMAIN-SUFFIX,cloudcone.com
+  # - IP-CIDR,142.171.225.231/32
   ## Video
   - DOMAIN-SUFFIX,misakaf.org
   - DOMAIN-SUFFIX,emby.misakaf.org
   ## TVbox
-  - DOMAIN-SUFFIX,饭太硬.com
-  - DOMAIN-SUFFIX,xn--sss604efuw.com
-  - DOMAIN-SUFFIX,肥猫.live
-  - DOMAIN-SUFFIX,xn--z7x900a.live
-  - DOMAIN-SUFFIX,肥猫.love
-  - DOMAIN-SUFFIX,xn--z7x900a.love
-  - DOMAIN-SUFFIX,小白.love
-  - DOMAIN-SUFFIX,xn--yety82d.love
+  # - DOMAIN-SUFFIX,饭太硬.com
+  # - DOMAIN-SUFFIX,xn--sss604efuw.com
+  # - DOMAIN-SUFFIX,肥猫.live
+  # - DOMAIN-SUFFIX,xn--z7x900a.live
+  # - DOMAIN-SUFFIX,肥猫.love
+  # - DOMAIN-SUFFIX,xn--z7x900a.love
+  # - DOMAIN-SUFFIX,小白.love
+  # - DOMAIN-SUFFIX,xn--yety82d.love
   ## notion
   - DOMAIN-SUFFIX,notion.site
   - DOMAIN-SUFFIX,notion.so
