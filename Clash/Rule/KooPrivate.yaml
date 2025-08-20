@@ -5,6 +5,8 @@ payload:
   # - DOMAIN-SUFFIX,sydney.bing.com
   ## socialblade
   # - DOMAIN-SUFFIX,socialblade.com
+  ## cloudflare
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
   ## synology
   - DOMAIN-SUFFIX,checkip.synology.com
   - DOMAIN-SUFFIX,checkipv6.synology.com
