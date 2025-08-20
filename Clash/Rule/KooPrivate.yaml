@@ -6,6 +6,7 @@ payload:
   ## socialblade
   # - DOMAIN-SUFFIX,socialblade.com
   ## cloudflare
+  - DOMAIN-SUFFIX,a.nel.cloudflare.com
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   ## synology
   - DOMAIN-SUFFIX,checkip.synology.com
