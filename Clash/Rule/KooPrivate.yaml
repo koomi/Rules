@@ -29,7 +29,10 @@ payload:
   - DOMAIN-SUFFIX,icloudapple.cn
   ## tailscale
   - DOMAIN-KEYWORD,tailscale
+  - GEOIP,tailscale
+  - GEOSITE,tailscale
   ## Others
+  - DOMAIN-SUFFIX,skk.moe
   - DOMAIN-SUFFIX,nopecha.com
   - DOMAIN-SUFFIX,zhihu.com
   - DOMAIN-SUFFIX,ocbc.com
