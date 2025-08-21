@@ -9,6 +9,7 @@ payload:
   ## VPS
   # - DOMAIN-SUFFIX,cloudcone.com
   # - IP-CIDR,142.171.225.231/32
+  - DOMAIN-SUFFIX,akile.io
   ## Video
   - DOMAIN-SUFFIX,misakaf.org
   - DOMAIN-SUFFIX,emby.misakaf.org
