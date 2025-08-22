@@ -34,6 +34,8 @@ payload:
   - DOMAIN-KEYWORD,tailscale
   - GEOIP,tailscale
   - GEOSITE,tailscale
+  ## VPS
+  - DOMAIN-SUFFIX,bwg.net
   ## Others
   - DOMAIN-SUFFIX,skk.moe
   - DOMAIN-SUFFIX,nopecha.com
