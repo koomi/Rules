@@ -37,6 +37,7 @@ payload:
   ## VPS
   - DOMAIN-SUFFIX,bwg.net
   ## Others
+  - DOMAIN-SUFFIX,fubonchina.com
   - DOMAIN-SUFFIX,skk.moe
   - DOMAIN-SUFFIX,nopecha.com
   - DOMAIN-SUFFIX,zhihu.com
