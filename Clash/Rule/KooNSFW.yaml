@@ -4,7 +4,7 @@ payload:
   # - DOMAIN,sydney.bing.com
   # - DOMAIN-SUFFIX,sydney.bing.com
   # NSFW
-  - DOMAIN-SUFFIX,tiktokcdn.com
+  # - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,netflav.com
   - DOMAIN-SUFFIX,netflav5.com
   - DOMAIN-SUFFIX,netflavns1.com
