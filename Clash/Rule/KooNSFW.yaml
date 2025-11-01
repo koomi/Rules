@@ -6,6 +6,7 @@ payload:
   # NSFW
   - DOMAIN-SUFFIX,netflav.com
   - DOMAIN-SUFFIX,netflav5.com
+  - DOMAIN-SUFFIX,netflavns1.com
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,missav.com
   - DOMAIN-SUFFIX,recombee.com
