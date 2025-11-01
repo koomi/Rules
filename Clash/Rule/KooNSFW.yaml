@@ -5,6 +5,7 @@ payload:
   # - DOMAIN-SUFFIX,sydney.bing.com
   # NSFW
   - DOMAIN-SUFFIX,netflav.com
+  - DOMAIN-SUFFIX,netflav5.com
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,missav.com
   - DOMAIN-SUFFIX,recombee.com
