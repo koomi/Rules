@@ -22,6 +22,8 @@ payload:
   # - DOMAIN-SUFFIX,xn--z7x900a.love
   # - DOMAIN-SUFFIX,小白.love
   # - DOMAIN-SUFFIX,xn--yety82d.love
+  ## scoop.sh
+  - DOMAIN-SUFFIX,scoop.sh
   ## notion
   - DOMAIN-SUFFIX,notion.site
   - DOMAIN-SUFFIX,notion.so
