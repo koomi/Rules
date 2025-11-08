@@ -25,9 +25,9 @@ payload:
   ## scoop.sh
   - DOMAIN-SUFFIX,scoop.sh
   ## notion
-  - DOMAIN-SUFFIX,notion.site
-  - DOMAIN-SUFFIX,notion.so
-  - DOMAIN-KEYWORD,notion
+  # - DOMAIN-SUFFIX,notion.site
+  # - DOMAIN-SUFFIX,notion.so
+  # - DOMAIN-KEYWORD,notion
   ## agoda
   - DOMAIN-SUFFIX,agoda.cn
   - DOMAIN-SUFFIX,agoda.com
