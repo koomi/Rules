@@ -46,6 +46,8 @@ payload:
   - DOMAIN-SUFFIX,www.tradingview.com
   ## facebook
   # - DOMAIN-SUFFIX,fbcdn.net
+  ## docker
+  - DOMAIN-SUFFIX,lscr.io
   ## Other
   - DOMAIN-SUFFIX,echonetwork.club
   - DOMAIN-SUFFIX,t.co
