@@ -8,6 +8,7 @@ payload:
   - DOMAIN-KEYWORD,netflav
   - DOMAIN-SUFFIX,netflav.com
   - DOMAIN-SUFFIX,netflav5.com
+  - DOMAIN-SUFFIX,netflav6.com
   - DOMAIN-SUFFIX,netflavns1.com
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,missav.com
