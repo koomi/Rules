@@ -5,6 +5,7 @@ payload:
   # - DOMAIN-SUFFIX,sydney.bing.com
   # NSFW
   # - DOMAIN-SUFFIX,tiktokcdn.com
+  - DOMAIN-KEYWORD,netflav
   - DOMAIN-SUFFIX,netflav.com
   - DOMAIN-SUFFIX,netflav5.com
   - DOMAIN-SUFFIX,netflavns1.com
