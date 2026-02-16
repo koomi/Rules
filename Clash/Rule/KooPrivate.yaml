@@ -36,6 +36,9 @@ payload:
   - GEOSITE,tailscale
   ## VPS
   - DOMAIN-SUFFIX,bwg.net
+  ## TMP.link
+  - DOMAIN-SUFFIX,tmp.link
+  - DOMAIN-SUFFIX,ttttt.link
   ## Others
   - DOMAIN-SUFFIX,fubonchina.com
   - DOMAIN-SUFFIX,skk.moe
