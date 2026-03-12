@@ -30,6 +30,10 @@ payload:
   - DOMAIN-SUFFIX,icloud.com.cn
   - DOMAIN-SUFFIX,icloud.net.cn
   - DOMAIN-SUFFIX,icloudapple.cn
+  ## notion
+  # - DOMAIN-SUFFIX,notion.site
+  # - DOMAIN-SUFFIX,notion.so
+  # - DOMAIN-KEYWORD,notion
   ## tailscale
   - DOMAIN-KEYWORD,tailscale
   - GEOIP,tailscale
