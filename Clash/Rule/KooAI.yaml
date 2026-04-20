@@ -1,0 +1,118 @@
+# NAME: AI
+payload:
+# Microsoft New Bing.com
+  # - DOMAIN-SUFFIX,bing.com
+  # - DOMAIN-KEYWORD,bing
+  # - DOMAIN,bing.com
+  # - DOMAIN,www.bing.com
+
+# Microsoft Copilot by Dasmz Version 2023-12-31
+  - DOMAIN,th.bing.com
+  - DOMAIN,www.bingapis.com
+  - DOMAIN,sapphire.api.microsoftapp.net
+  - DOMAIN,prod.rewardsplatform.microsoft.com
+  - DOMAIN,c.clarity.ms
+  - DOMAIN,c.bing.com
+  - DOMAIN,sydney.bing.com
+  - DOMAIN,www.clarity.ms
+  - DOMAIN,p.clarity.ms
+  - DOMAIN,dealczars.bing-shopping.microsoft-falcon.io
+  - DOMAIN,shopping.bing-shopping.microsoft-falcon.io
+  - DOMAIN,cdn.jsdelivr.net
+  - DOMAIN,logincdn.msauth.net
+  - DOMAIN,account.live.com
+  - DOMAIN,acctcdn.msauth.net
+  - DOMAIN,odc.officeapps.live.com
+  - DOMAIN,substrate.office.com
+  - DOMAIN,ssl.bing.com
+  - DOMAIN,services.bingapis.com
+  - DOMAIN,location.microsoft.com
+  - DOMAIN,api.msn.com
+  - DOMAIN,gateway.bingviz.microsoftapp.net
+  - DOMAIN,in.appcenter.ms
+  - DOMAIN,www.bing.com
+  - DOMAIN,self.events.data.microsoft.com
+
+# ChatGPT
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chat.openai.com
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,identrust.com
+  - DOMAIN-SUFFIX,auth0.com
+  
+# > Openai
+  # - DOMAIN-SUFFIX,openai.com
+  
+  ## Nvidia
+  # - DOMAIN-SUFFIX,nvidia.com
+
+# > ExHantai
+  - DOMAIN-SUFFIX,exhentai.org
+
+# > Claude 2
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+
+# > Google Bard/Gemini
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,gemini.google.com
+
+# > perplexity
+  - DOMAIN-SUFFIX,perplexity.ai
+  
+# > perplexity
+  - DOMAIN-SUFFIX,cursor.com
+
+# Sukka's Ruleset - AIGC Domains
+# https://ruleset.skk.moe/Clash/non_ip/ai.txt
+  - DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN,antigravity.google
+  - DOMAIN-SUFFIX,notebooklm.google
+  - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,gemini.google
+  - DOMAIN,antigravity-unleash.goog
+  - DOMAIN,ai.google.dev
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
+  - DOMAIN,daily-cloudcode-pa.googleapis.com
+  - DOMAIN,robinfrontend-pa.googleapis.com
+  - DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
+  - DOMAIN,aisandbox-pa.googleapis.com
+  - DOMAIN-SUFFIX,geller-pa.googleapis.com
+  - DOMAIN,aida.googleapis.com
+  - DOMAIN,gateway.ai.cloudflare.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,notebooklm.google.com
+  - DOMAIN-SUFFIX,makersuite.google.com
+  - DOMAIN,alkalicore-pa.clients6.google.com
+  - DOMAIN-SUFFIX,aistudio.google.com
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN,jules.google.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN,api.github.com
+  - DOMAIN-SUFFIX,claude.com
+  - DOMAIN-SUFFIX,sora.com
+  - DOMAIN-SUFFIX,groq.com
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,chat.com
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,clipdrop.co
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN,openrouter.ai
+  - DOMAIN,api.jetbrains.ai
+  - DOMAIN-SUFFIX,openart.ai
+  - DOMAIN-SUFFIX,jasper.ai
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,dify.ai
+  - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,g.ai
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
