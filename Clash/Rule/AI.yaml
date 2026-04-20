@@ -45,7 +45,7 @@ payload:
   # - DOMAIN-SUFFIX,openai.com
   
   ## Nvidia
-  - DOMAIN-SUFFIX,nvidia.com
+  # - DOMAIN-SUFFIX,nvidia.com
 
 # > ExHantai
   - DOMAIN-SUFFIX,exhentai.org
