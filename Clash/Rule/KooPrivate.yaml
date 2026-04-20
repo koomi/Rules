@@ -18,6 +18,8 @@ payload:
   - DOMAIN,xiaoyang.live
   - DOMAIN-SUFFIX,oc.xiaoyang.live
   - DOMAIN,xiaoyang.studio
+  ## Nvidia
+  - DOMAIN-SUFFIX,nvidia.com
   ## Apple
   # - DOMAIN-SUFFIX,icloud.com
   # - DOMAIN-SUFFIX,apple.com
