@@ -8,6 +8,8 @@ payload:
   ## cloudflare
   # - DOMAIN-SUFFIX,a.nel.cloudflare.com
   # - DOMAIN-SUFFIX,challenges.cloudflare.com
+  ## Cindy
+  - DOMAIN-SUFFIX,cindy.app
   ## synology
   - DOMAIN-SUFFIX,checkip.synology.com
   - DOMAIN-SUFFIX,checkipv6.synology.com
